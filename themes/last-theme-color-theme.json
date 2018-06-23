@@ -36,7 +36,7 @@
 		},
 		{
 			"name": "Class",
-			"scope": "entity.name.class",
+			"scope": "entity.name.class, entity.name.type",
 			"settings": {
 				"foreground": "#D38BFF"
 			}
