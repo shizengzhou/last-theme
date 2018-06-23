@@ -164,6 +164,14 @@
 				"background": "#AE81FF",
 				"foreground": "#DBE2E8"
 			}
+		},
+		{
+			"name": "Markup Heading",
+			"scope": "markup.heading",
+			"settings": {
+				"foreground": "#D38BFF",
+				"fontStyle": "bold"
+			}
 		}
 	],
 	"colors": {
