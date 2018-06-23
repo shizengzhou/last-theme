@@ -186,6 +186,7 @@
 		"list.inactiveSelectionBackground": "#344655",
 		"list.activeSelectionBackground": "#344655",
 		"list.focusBackground": "#344655",
+		"list.inactiveFocusBackground": "#344655",
 		"editorGroupHeader.tabsBackground": "#1C262F",
 		"tab.inactiveBackground": "#1C262F",
 		"scrollbar.shadow": "#FFF0"
