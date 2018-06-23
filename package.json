@@ -1,0 +1,22 @@
+{
+    "name": "last-theme",
+    "displayName": "Last Theme",
+    "description": "Last Theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "ShizengZhou",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Last Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/last-theme-color-theme.json"
+            }
+        ]
+    }
+}
