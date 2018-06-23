@@ -8,6 +8,7 @@
         "type": "git",
         "url": "https://github.com/shizengzhou/last-theme"
     },
+    "license": "MIT",
     "engines": {
         "vscode": "*"
     },
