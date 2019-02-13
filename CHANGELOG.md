@@ -10,3 +10,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.1] - 2018-06-23
 
 ## [1.0.2] - 2019-01-13
+
+## [1.0.3] - 2019-02-13
