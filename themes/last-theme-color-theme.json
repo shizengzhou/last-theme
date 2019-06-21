@@ -189,7 +189,9 @@
     "list.inactiveFocusBackground": "#455C70",
     "editorGroupHeader.tabsBackground": "#1C262F",
     "tab.inactiveBackground": "#1C262F",
-    "scrollbar.shadow": "#FFF0"
+    "scrollbar.shadow": "#FFF0",
+    "editorIndentGuide.background": "#434F58",
+    "editorIndentGuide.activeBackground": "#DBE2E8"
   },
   "name": "Last Theme"
 }
