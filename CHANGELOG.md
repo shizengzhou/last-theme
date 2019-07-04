@@ -5,6 +5,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.7] - 2019-07-04
+
 ## [1.0.6] - 2019-06-21
 
 ## [1.0.5] - 2019-06-14

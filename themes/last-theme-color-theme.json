@@ -129,7 +129,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#02ccba"
+        "foreground": "#d38bff"
       }
     },
     {
@@ -198,7 +198,9 @@
     "tab.inactiveBackground": "#1c262f",
     "scrollbar.shadow": "#fff0",
     "editorIndentGuide.background": "#434f58",
-    "editorIndentGuide.activeBackground": "#dbe2e8"
+    "editorIndentGuide.activeBackground": "#dbe2e8",
+    "editorWidget.background": "#24323e",
+    "editorSuggestWidget.background": "#24323e"
   },
   "name": "Last Theme"
 }
